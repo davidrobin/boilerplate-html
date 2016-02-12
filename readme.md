@@ -1,6 +1,6 @@
 #Boilerplate HTML
 
-Boilerplate minimaliste avec une grille CSS simple.
+Simple Boilerplate HTML avec une grille CSS minimaliste.
 
 ### Pré-requis (optionnel)
 
