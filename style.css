@@ -2,8 +2,8 @@ body {
   font-family: Arial, sans-serif;
 }
 
-h2, 
-h4 {
+header h1, 
+footer p {
   color: #fff;
 }
 
@@ -16,3 +16,14 @@ footer {
   min-height: 10vh;
   background-color: blue;
 }
+
+main h2 {
+  margin: 0;
+}
+
+main p {
+  background-color: silver;
+  padding: 20px;
+  margin: auto;
+}
+
